@@ -9,8 +9,8 @@
   - prueba prueba prueba prueba prueba
   - máster en periodismo de datos
 -  Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.
-    1.  Nunc sed velit dignissim sodales.
-    2.  Felis donec et odio pellentesque diam volutpat commodo sed egestas.
+   1.  Nunc sed velit dignissim sodales.
+   2.  Felis donec et odio pellentesque diam volutpat commodo sed egestas.
 
 ## Enlaces
 
