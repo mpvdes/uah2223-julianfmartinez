@@ -8,10 +8,9 @@
 - When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
   - prueba prueba prueba prueba prueba
   - máster en periodismo de datos
-- It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s 
-  1.  with the release of Letraset sheets containing Lorem Ipsum passages.
-  2.  Nd more recently with desktop publishing software like Aldus 
-  3.  PageMaker including versions of Lorem Ipsum.
+-  Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.
+  1.  Nunc sed velit dignissim sodales.
+  2.  Felis donec et odio pellentesque diam volutpat commodo sed egestas.
 
 ## Enlaces
 
