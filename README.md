@@ -9,9 +9,9 @@
   - prueba prueba prueba prueba prueba
   - máster en periodismo de datos
 - It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s 
-  1. with the release of Letraset sheets containing Lorem Ipsum passages.
-  2. Nd more recently with desktop publishing software like Aldus 
-  3. PageMaker including versions of Lorem Ipsum.
+  1.  with the release of Letraset sheets containing Lorem Ipsum passages.
+  2.  Nd more recently with desktop publishing software like Aldus 
+  3.  PageMaker including versions of Lorem Ipsum.
 
 ## Enlaces
 
