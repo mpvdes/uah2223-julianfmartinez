@@ -56,11 +56,11 @@ De acuerdo con el profesor de informática Iván Lasso, **Markdown** es *"un len
 ![Adolfo Antón Bravo](https://infotics.es/autoria/adolfo-anton-bravo/avatar-adolflow_hua33f5215751d27a45a956982b640893f_57535_270x270_fill_q75_lanczos_center.jpg "Adolfo Anton Bravo")
 
 - ### Negrillas y cursivas 
-Para que el texto quede en **negrilla** una forma es poniendo dos asterizcos al comienzo `**` y dos al final `**` de la palabra o frase a resaltar
+Para que el texto quede en **negrilla** una forma es poniendo dos asteriscos al comienzo `**` y dos al final `**` de la palabra o frase a resaltar
 
 Ejemplo: `**negrilla**`
 
-Si las oraciones requieren letras *cursivas* se podría poner un asterizco al principio `*` y al final `*` de la palabra u oración.
+Si las oraciones requieren letras *cursivas* se podría poner un asterisco al principio `*` y al final `*` de la palabra u oración.
 
 Ejemplo:
 `*cursiva*`
