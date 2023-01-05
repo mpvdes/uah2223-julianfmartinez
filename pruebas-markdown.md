@@ -12,6 +12,10 @@
 **Programación literaria:** *La programación literaria es un estilo de programación propuesto por Donald Knuth para documentar los programas. Él mismo la empleo en su sistema tipográfico. El estilo de programación literaria como se le ha llamado en español o programación letrada o instruida como se traduce literalmente, tal y como lo concibió Knuth, representa un movimiento disruptivo respecto a la escritura de programas en el orden y forma impuesto por el ordenador. En cambio permite a los programadores desarrollar sus programas en el orden fijado por la lógica y el flujo de sus pensamientos*. Tal y como lo plantea Wikipedia [aquí](https://es.wikipedia.org/wiki/Programaci%C3%B3n_literaria).
 
 - ## Markdown
+De acuerdo con el profesor de informática Iván Lasso, Markdown es *"un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino"* [Ver fuente](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo).
+
+### Características
+
   - Es un lenguaje informático para la web de marca ligero sin la complejidad del HTML.
   - Tiene una sintaxis muy simple. 
   - Permite escribir de una forma muy rápida.
