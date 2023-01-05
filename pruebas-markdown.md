@@ -1,43 +1,28 @@
-# Pruebas con Markdown
+## Fundamentos Tecnológicos del Máster en Periodismo de Datos y Visualización
+## Universidad de Alcalá de Henares de Madrid
 
-# Apuntes del MPVD UAH 2223 miércoles 14 de diciembre de 2022
-## Encabezamiento de segundo nivel
-### Encabezamiento 
-#### Encabezamiento 
-##### Encabezamiento 
-###### Encabezamiento 
+###### Apuntes y documentación de las sesiones y talleres
 
-## Comentarios
-<!--
-     __        __                      _     _      _
-     \ \      / /__    __ _ _ __ ___  | |__ (_)_ __(_)_ __   __ _
-      \ \ /\ / / _ \  / _` | '__/ _ \ | '_ \| | '__| | '_ \ / _` |
-       \ V  V /  __/ | (_| | | |  __/ | | | | | |  | | | | | (_| |
-        \_/\_/ \___|  \__,_|_|  \___| |_| |_|_|_|  |_|_| |_|\__, |
-                                                            |___/
-    Ever thought about joining us?
-    https://workforus.theguardian.com/careers/product-engineering/
-     --->
-Este es un comentario que no se va a ver:
+- 	Herramientas básicas del entorno de trabajo para el ejercicio del periodismo de datos.
+  1.  Editor de texto (recolector de notas) 
+  2.  Navegador (Firefox, Google Crome)
+  3.  Línea de comandos (la Terminal)
+  4.  Git
 
-Fundamentos Tecnológicos del Máster en Periodismo de Datos y Visualización
-Universidad de Alcalá de Henares de Madrid
-Apuntes y documentación de las sesiones y talleres
+**Programación literaria:** *La programación literaria es un estilo de programación propuesto por Donald Knuth para documentar los programas. Él mismo la empleo en su sistema tipográfico. El estilo de programación literaria como se le ha llamado en español o programación letrada o instruida como se traduce literalmente, tal y como lo concibió Knuth, representa un movimiento disruptivo respecto a la escritura de programas en el orden y forma impuesto por el ordenador. En cambio permite a los programadores desarrollar sus programas en el orden fijado por la lógica y el flujo de sus pensamientos*. Tal y como lo plantea Wikipedia [aquí](https://es.wikipedia.org/wiki/Programaci%C3%B3n_literaria).
 
-Herramientas básicas del entorno de trabajo para el ejercicio de periodismo de datos 
+- ## Markdown
+  - Es un lenguaje informático para la web de marca ligero sin la complejidad del HTML.
+  - Tiene una sintaxis muy simple. 
+  - Permite escribir de una forma muy rápida.
+  - Podemos poner encabezamientos, letras en negrilla, enlistados y bloques de código. 
+  - Puede servir para hacer un programa de radio, para hacer una escaleta, para hacer un guión de televisión o para hacer una web.
+
  
-1)	Editor de texto (recolector de notas) 
-2)	Navegador (Firefox, Google Crome)
-3)	Línea de comandos (la Terminal)
-4)	Git
 
-Programación literaria: BUSCAR CONCEPTO Y PONER CITA CON LINK
 
-Markdown es un lenguaje informático de marca ligero para la web sin la complejidad del TML. 
-Tiene una sintaxis muy simple. 
-Permite escribir de una forma muy rápida. 
-Podemos poner encabezamientos, letras en negrilla, enlistados y bloques de código. 
-Puede servir para hacer un programa de radio, para hacer una escaleta, para hacer un guión de televisión o para hacer una web.
+
+
 
 ¿Qué se utiliza en Markdown? 
 
