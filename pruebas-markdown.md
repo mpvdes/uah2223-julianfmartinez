@@ -12,9 +12,9 @@
 **Programación literaria:** *La programación literaria es un estilo de programación propuesto por Donald Knuth para documentar los programas. Él mismo la empleo en su sistema tipográfico. El estilo de programación literaria como se le ha llamado en español o programación letrada o instruida como se traduce literalmente, tal y como lo concibió Knuth, representa un movimiento disruptivo respecto a la escritura de programas en el orden y forma impuesto por el ordenador. En cambio permite a los programadores desarrollar sus programas en el orden fijado por la lógica y el flujo de sus pensamientos*. Tal y como lo plantea Wikipedia [aquí](https://es.wikipedia.org/wiki/Programaci%C3%B3n_literaria).
 
 - ## Markdown
-De acuerdo con el profesor de informática Iván Lasso, Markdown es *"un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino"* [Ver fuente](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo).
+De acuerdo con el profesor de informática Iván Lasso, **Markdown** es *"un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino"*. [(Ver fuente)](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
 
-### Características
+- ### Características
 
   - Es un lenguaje informático para la web de marca ligero sin la complejidad del HTML.
   - Tiene una sintaxis muy simple. 
@@ -22,31 +22,65 @@ De acuerdo con el profesor de informática Iván Lasso, Markdown es *"un lenguaj
   - Podemos poner encabezamientos, letras en negrilla, enlistados y bloques de código. 
   - Puede servir para hacer un programa de radio, para hacer una escaleta, para hacer un guión de televisión o para hacer una web.
 
- 
+- ### ¿Qué se utiliza en Markdown? 
+
+	- Sintaxis
+
+`# H1 encabezado de primer nivel`
+# Markdown
+
+`## H2 encabezado de segundo nivel`
+## Markdown
+
+`### H3 encabezado de tercer nivel`
+### Markdown
+
+`#### H4 encabezado de cuarto nivel`
+#### Markdown
+
+`##### H5 encabezado de quinto nivel`
+##### Markdown
+
+`###### H6 encabezado de sexto nivel`
+###### Markdown
+
+- El profesor Adolfo Antón Bravo impartió cuatro consejos para el uso adecuado de *Markdown* 
+
+		- Ser minuciosos (detallistas, verborreicos, extendidos) como puedan, como si se lo estuvieran contando a alguien que tiene que aprender de 0.
+		- Usad Markdown apropiadamente
+		- Los espacios y las líneas en blanco importan
+		- El código inserto en un texto se ha de marcar apropiadamente
+
+[Antón Bravo](https://www.infotics.es/) es doctor en Ciencias de la Información de la Universidad Complutense de Madrid 
+![Adolfo Antón Bravo](https://cms.tabakalera.eus/sites/default/files/styles/breakpoint_1920/public/2021-11/adolfoantonbravo.jpg?itok=3wT4yLeX "Adolfo Anton Bravo")
 
 
 
+*Lorem Ipsum* **is simply dummy** text ***of the printing and typesetting industry***. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
+## Listados anidados
+- Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+- Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+- When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+  - prueba prueba prueba prueba prueba
+  - máster en periodismo de datos
+-  Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.
+  1.  Nunc sed velit dignissim sodales.
+  2.  Felis donec et odio pellentesque diam volutpat commodo sed egestas.
 
-¿Qué se utiliza en Markdown? 
+## Enlaces
+[Lorem sed risus](https://mpvd.es) ultricies tristique nulla aliquet enim tortor. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Et pharetra pharetra massa massa ultricies mi. Scelerisque eu ultrices vitae auctor eu augue ut. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim.
 
-Sintaxis
+## Insertar imágenes
+![Imagen](https://www.gnu.org/savannah-checkouts/gnu/emacs/images/emacs.png "Logo prueba")
 
-H1 encabezado de primer nivel #
-H2 encabezado de segundo nivel ##
-H3 encabezado de tercer nivel ### 
-H4 encabezado de cuarto nivel ####
-H5 encabezado de quinto nivel #####
-H6 encabezado de sexto nivel ######
+## Texto citado
 
-Consejos del profesor Adolfo Antón Bravo para el uso correcto de Markdown 
+`Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.` 
 
-4 consejos:
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-Sean tan minuciosxs (detallistas, verborreicxs, extendidxs) como podáis, como si se lo estuvierais contando a alguien que tiene que aprender de 0.
-Usad Markdown apropiadamente
-Los espacios y las líneas en blanco importan
-El código inserto en un texto se ha de marcar apropiadamente
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 Git
 
@@ -108,31 +142,3 @@ comando - opciones - argumentos
 - tail		muestra la cola de archivos
 - rm		borrar
 
-
-
-
-*Lorem Ipsum* **is simply dummy** text ***of the printing and typesetting industry***. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## Listados anidados
-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-- Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-- When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-  - prueba prueba prueba prueba prueba
-  - máster en periodismo de datos
--  Hendrerit gravida rutrum quisque non tellus orci ac auctor augue.
-  1.  Nunc sed velit dignissim sodales.
-  2.  Felis donec et odio pellentesque diam volutpat commodo sed egestas.
-
-## Enlaces
-[Lorem sed risus](https://mpvd.es) ultricies tristique nulla aliquet enim tortor. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Et pharetra pharetra massa massa ultricies mi. Scelerisque eu ultrices vitae auctor eu augue ut. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim.
-
-## Insertar imágenes
-![Imagen](https://www.gnu.org/savannah-checkouts/gnu/emacs/images/emacs.png "Logo prueba")
-
-## Texto citado
-
-`Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.` 
-
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
