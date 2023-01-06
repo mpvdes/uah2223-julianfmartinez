@@ -46,11 +46,14 @@ De acuerdo con el profesor de informática Iván Lasso, **Markdown** es *"un len
 
 - El profesor Adolfo Antón Bravo impartió cuatro consejos para el uso adecuado de *Markdown* 
 
+
+
+```
 		> Ser minuciosos (detallistas, verborreicos, extendidos) como puedan, como si se lo estuvieran contando a alguien que tiene que aprender de 0.
 		> Usad Markdown apropiadamente
 		> Los espacios y las líneas en blanco importan
 		> El código inserto en un texto se ha de marcar apropiadamente
-
+```
 [Antón Bravo](https://www.infotics.es/) es doctor en Ciencias de la Información de la Universidad Complutense de Madrid 
 
 ![Adolfo Antón Bravo](https://infotics.es/autoria/adolfo-anton-bravo/avatar-adolflow_hua33f5215751d27a45a956982b640893f_57535_270x270_fill_q75_lanczos_center.jpg "Adolfo Anton Bravo")
@@ -64,3 +67,10 @@ Si las oraciones requieren letras *cursivas* se podría poner un asterisco al pr
 
 Ejemplo:
 `*cursiva*`
+
+-- ### Texto citado
+###### 1. citado en línea
+`Los principios FAIR son fundamentales para la investigación abierta` (*Fattorello, 2008*), y por ello la investigación de la institución tiene que responder a estos principios. 
+###### 2. citado en bloque
+
+
