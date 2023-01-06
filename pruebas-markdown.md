@@ -69,6 +69,7 @@ Ejemplo:
 `*cursiva*`
 
 - ### Texto citado
+Para hacer citados en línea o en bloque hay que utilizar el método abreviado de teclado de tilde hacía atrás **`**
 ###### 1. Citado en línea
 `Los principios FAIR son fundamentales para la investigación abierta` (*Fattorello, 2008*), y por ello la investigación de la institución tiene que responder a estos principios. 
 ###### 2. Citado en bloque
