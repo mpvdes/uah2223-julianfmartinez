@@ -68,7 +68,7 @@ Si las oraciones requieren letras *cursivas* se podría poner un asterisco al pr
 Ejemplo:
 `*cursiva*`
 
--- ### Texto citado
+- ### Texto citado
 ###### 1. citado en línea
 `Los principios FAIR son fundamentales para la investigación abierta` (*Fattorello, 2008*), y por ello la investigación de la institución tiene que responder a estos principios. 
 ###### 2. citado en bloque
