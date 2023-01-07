@@ -70,6 +70,7 @@ Ejemplo:
 
 - ### Texto citado
 Para hacer citados en línea o en bloque hay que utilizar el método abreviado de teclado de tilde hacía atrás **`**
+
 ###### 1. Citado en línea 
 
 En el caso del citado en línea se utiliza una tilde hacia atrás al comienzo y al fin de la palabra o frase.
