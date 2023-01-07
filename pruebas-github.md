@@ -17,17 +17,17 @@ Es una [plataforma](https://twitter.com/github) de desarrollo completa para crea
   - Lo que hace Github es mostrar el archivo Markdown como HTML 
   - Al darle click en el lapicero, se puede ver el código fuente del archivo
 
-- ### Crear un repositorio en Github
+- ### Crear un repositorio o proyecto en Github
 
+`Paso 1:` Creación de un repositorio
 
+`Paso 2:` En GitHub, generalmente se usa el rol público (para tener repositorios privados, hay que pagar)
 
-Repositorios y proyectos git
-Paso 1: creación de un repositorio
-Paso 2: en Github generalmente se usa el rol público (para tener repositorios privados, hay que pagar)
-Paso 3: READme es un archivo 
-Choose a license 
-SON DE LAS TRES PIEZAS FUNDAMENTALES QUE TIENE TODO SOFTWARE, pueden estar en un archivo o estar separados
-Paso 4: crear un repositorio en la linea de comandos
+`Paso 3:` READme.md es un archivo (Choose a license)
+
+`Paso 4:` Crear un repositorio en la linea de comandos
+```
+
 echo "# JulianFMartinez" >> README.md
         git init
         git add README.md
@@ -35,35 +35,31 @@ echo "# JulianFMartinez" >> README.md
         git branch -M main
         git remote add origin https://github.com/JulianFMartinez/JulianFMartinez.git
         git push -u origin main
+``` 
+- ### Nomenclaturas de Comandos:
 
-- Si se crean repositorio en grupo se pueden editar conjuntamente entre sus miembros.
+- ###### comando + opciones + argumentos
+  - `ls`            enlista los archivos de una carpeta
+  - `ls -a`         enlista los archivos de una carpeta más los que están ocultos
+  - `pwd`           dónde estoy
+  - `mkdir`         crear un directorio
+  - `cd`            cambiar de directorio
+  - `cp`            copiar
+  - `whoami`        quién soy
+  - `cat`           muéstrame el contenido de este archivo
+  - `top`           carga acumulada
+  - `q`             quit/salir/exit
+  - `echo`          repite lo que nosotros le digamos
+  - `head`          muestra la cabeza de archivos
+  - `tail`          muestra la cola de archivos
+  - `rm`            borrar
+  - `clear`         limpia y pone en blanco la terminal
 
-Nomenclaturas de Comandos:
+- ### Covertir GitHub en una página web
+  - Una de las cosas por la que se utiliza GitHub es porque permite utilizarla, no solo como repositorio, como espacio remoto de un proyecto, sino para producir una página web.
+  - Hay una funcionalidad en Github es convertir el contenido en página web. De esta manera se crea un subdominio.
 
-comando + opciones + argumentos
+La ruta es: `Settings` + `Pages` + `Github Pages` (Deploy from a branch) (seleccionar la rama main y el directorio `root` y `Save`)
 
-- ls            enlista los archivos de una carpeta
-- ls -a         enlista los archivos de una carpeta más los que están ocultos
-- pwd           dónde estoy
-- mkdir         crear un directorio
-- cd            cambiar de directorio
-- cp            copiar
-- whoami        quién soy
-- cat           muéstrame el contenido de este archivo
-- top           carga acumulada
-- q             quit/salir/exit
-- echo          repite lo que nosotros le digamos
-- head          muestra la cabeza de archivos
-- tail          muestra la cola de archivos
-- rm            borrar
-- clear         limpia y pone en blanco la terminal
-
-Covertir Github en una página web
-
-Una de las cosas por la que se utiliza Github es porque permite utilizar a Github no solo como repositorio, como espacio remoto de un proyecto, sino para  producir una página web.
-Hay una funcionalidad en Github es convertir el contenido en página web. De esta manera se crea un subdominio.
-
-La ruta es: Settings + Pages + Github Pages (Deploy from a branch) (seleccionar la rama main y el directorio root y Save)
-
-url creada en Github https://mpvdes.github.io/uah2223-julianfmartinez/
+De esta manera, queda una `url` creada en Github https://mpvdes.github.io/uah2223-julianfmartinez/
 
