@@ -4,24 +4,17 @@
 Este software libre se puede descargar en la siguiente [página web](https://www.git-scm.com/download/) para su uso en MacOS, Windows y Linux/Unix
 
 # GitHub
-![Logo GitHub](https://www.drk.com.ar/2021/08/github.svg.png)"GitHub")
+![Logo GitHub](https://www.drk.com.ar/2021/08/github.svg.png "GitHub")
 
 Es una [plataforma](https://twitter.com/github) de desarrollo completa para crear, escalar y entregar software seguro. 
 
-
-Es un espacio donde puedes tener un repositorio Git remoto.
-
-Permite que el humanware tenga repositorios de páginas web.
-
-Normalmente en un software esa parte de ‘qué es este software’ se suele por convención y por costumbre situar en u>
-
-Si vamos a cualquiera de estos repositorios a los que hay acceso
-
-La terminación .md significa que es un archivo Markdown
-
-Lo que hace Github es mostrar el archivo Markdown como HTML 
-
-Al darle click en el lapicero, se puede ver el código fuente del archivo
+- ### Características 
+  - Es un espacio donde puedes tener un repositorio Git remoto
+  - Permite que el humanware tenga repositorios de páginas web
+  - Normalmente en un software esa parte de *"qué es este software"* se suele por convención y por costumbre situar en un archivo que se denomina `readme.md`
+  - La terminación `.md` significa que es un archivo Markdown
+  - Lo que hace Github es mostrar el archivo Markdown como HTML 
+  - Al darle click en el lapicero, se puede ver el código fuente del archivo
 
 Sintaxis orgmode COMPLEMENTAR CON UN CONCEPTO MÁS CLARO DEL MODO ORG
 
