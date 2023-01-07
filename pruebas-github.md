@@ -1,6 +1,10 @@
-# GitHub
+# Git
+[**Git**](https://www.git-scm.com/) es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, desde proyectos pequeños hasta proyectos muy grandes, con rapidez y eficiencia.
 
-Es un software libre que se puede descargar en: https://www.git-scm.com/download/
+Este software libre se puede descargar en la siguiente [página web](https://www.git-scm.com/download/) para su uso en MacOS, Windows y Linux/Unix
+
+GitHub
+
 
 Github
 
