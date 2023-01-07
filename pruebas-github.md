@@ -6,9 +6,10 @@ Este software libre se puede descargar en la siguiente [página web](https://www
 # GitHub
 ![Logo GitHub](https://www.drk.com.ar/2021/08/github.svg.png "GitHub")
 
-Es una [plataforma](https://twitter.com/github) de desarrollo completa para crear, escalar y entregar software seguro. 
+Es una [plataforma](https://twitter.com/github) de desarrollo completa para crear, escalar y entregar software seguro. GitHub es un software, es una muestra pública de carpetas que se tienen en un ordenador y que el humanware puede tener certeza en donde se está trabajando de forma individual o en equipo conjunto. Este software tiene un control de versiones. 
 
 - ### Características 
+  - Github se podría considerar que es una red social de desarrolladores 
   - Es un espacio donde puedes tener un repositorio Git remoto
   - Permite que el humanware tenga repositorios de páginas web
   - Normalmente en un software esa parte de *"qué es este software"* se suele por convención y por costumbre situar en un archivo que se denomina `readme.md`
@@ -16,13 +17,10 @@ Es una [plataforma](https://twitter.com/github) de desarrollo completa para crea
   - Lo que hace Github es mostrar el archivo Markdown como HTML 
   - Al darle click en el lapicero, se puede ver el código fuente del archivo
 
-Sintaxis orgmode COMPLEMENTAR CON UN CONCEPTO MÁS CLARO DEL MODO ORG
+- ### Crear un repositorio en Github
 
-CREAR UN REPOSITORIO
-CREAR UN REPOSITORIO
 
-Github es un software, es una muestra pública de carpetas que hay en un ordenador y que uno puede tener en donde e>
-Github se podría considerar que es una red social de desarrolladores 
+
 Repositorios y proyectos git
 Paso 1: creación de un repositorio
 Paso 2: en Github generalmente se usa el rol público (para tener repositorios privados, hay que pagar)
