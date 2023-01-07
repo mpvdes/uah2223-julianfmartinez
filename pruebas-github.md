@@ -3,10 +3,10 @@
 
 Este software libre se puede descargar en la siguiente [página web](https://www.git-scm.com/download/) para su uso en MacOS, Windows y Linux/Unix
 
-GitHub
+# GitHub
+![Logo GitHub](https://www.drk.com.ar/2021/08/github.svg.png) "GitHub")
+Es una [plataforma](https://twitter.com/github) de desarrollo completa para crear, escalar y entregar software seguro. 
 
-
-Github
 
 Es un espacio donde puedes tener un repositorio Git remoto.
 
