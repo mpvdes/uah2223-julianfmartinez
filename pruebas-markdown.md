@@ -3,11 +3,11 @@
 
 ###### Apuntes y documentación de las sesiones y talleres
 
-- 	Herramientas básicas del entorno de trabajo para el ejercicio del periodismo de datos.
-  1.  Editor de texto (recolector de notas) 
-  2.  Navegador (Firefox, Google Crome)
-  3.  Línea de comandos (la Terminal)
-  4.  Git
+- Herramientas básicas del entorno de trabajo para el ejercicio del periodismo de datos.
+  - Editor de texto (recolector de notas) 
+  - Navegador (Firefox, Google Crome)
+  - Línea de comandos (la Terminal)
+  - Git
 
 **Programación literaria:** *La programación literaria es un estilo de programación propuesto por Donald Knuth para documentar los programas. Él mismo la empleo en su sistema tipográfico. El estilo de programación literaria como se le ha llamado en español o programación letrada o instruida como se traduce literalmente, tal y como lo concibió Knuth, representa un movimiento disruptivo respecto a la escritura de programas en el orden y forma impuesto por el ordenador. En cambio permite a los programadores desarrollar sus programas en el orden fijado por la lógica y el flujo de sus pensamientos*. Tal y como lo plantea Wikipedia [aquí](https://es.wikipedia.org/wiki/Programaci%C3%B3n_literaria).
 
